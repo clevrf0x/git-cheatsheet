@@ -1,16 +1,16 @@
 # GIT CHEATSHEET
 
 ## On initial install:
-	**git --version** - *checks the version of the installed locally git*
-	**git config --global user.name "Your Name"** - *sets up the name of the user* 
-	**git config --global user.email "yourname@somemail.com"** - *sets up the mail of the user*
+	git --version - checks the version of the installed locally git
+	git config --global user.name "Your Name" - sets up the name of the user
+	git config --global user.email "yourname@somemail.com" - sets up the mail of the user
 	git config --list - lists all the git configurations
 	
-For help on commands:
+### For help on commands:
 	git help <verb> (e.g. git help config) OR 
 	git <verb> --help 
 	
-For initializing the project:
+### For initializing the project:
 	git init - initializes the git repo in the current folder
 	touch .gitignore - creates a git ignore file
 	git status - check working tree - both on the git and on local 

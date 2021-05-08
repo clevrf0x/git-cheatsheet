@@ -4,7 +4,7 @@
 	**git --version** - *checks the version of the installed locally git*
 	**git config --global user.name "Your Name"** - *sets up the name of the user* 
 	**git config --global user.email "yourname@somemail.com"** - *sets up the mail of the user*
-	**git config --list** - *lists all the git configurations*
+	git config --list - lists all the git configurations
 	
 For help on commands:
 	git help <verb> (e.g. git help config) OR 
